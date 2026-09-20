@@ -123,8 +123,6 @@ After replacing unrealistic 24/7 defaults with usage assumptions that match the 
 
 This value is an estimate and should be updated if the final architecture or usage assumptions change.
 
-The estimated monthly cost remains far below the exam budget ceiling of **CHF 250 per team**.
-
 ## 5. Cost-Optimization Decisions
 
 The main cost-control decisions are:
